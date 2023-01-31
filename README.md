@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dominion Ikpeawujor
 - 👀 I’m interested in Full-Stack Engineering and DevOps
 - 🌱 I’m currently learning Node.js and Google Cloud Platform
-- 💞️ I’m looking to collaborate on other developers interested in DevOps and Software Engineering generally
+- 💞️ I’m looking to collaborate with other developers interested in DevOps and Software Engineering generally
 - 📫 How to reach me: twitter: www.twitter.com/dominionci
                       linkedin: www.linkedin.com/in/dominion-ikpeawujor
 
