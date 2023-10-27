@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">My name is Dominion Ikpeawujor and I'm a Full-Stack Engineer, from ....</p>
+<p align="left">My name is Dominion Ikpeawujor and I'm a Full-Stack Engineer</p>
 
 ###
 
