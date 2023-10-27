@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2016😋<br>📚 I'm currently learning a lot of stuff.<br>🎯 Goals: Super-duper efficient in best practices as a Software Engineer<br>🎲 Fun fact: I'm a Web 3.0 Fanboy 😋</p>
+<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning a lot of stuff.<br>🎯 Goals: Super-duper efficient in best practices as a Software Engineer<br>🎲 Fun fact: I'm a Web 3.0 Fanboy 😋</p>
 
 ###
 
